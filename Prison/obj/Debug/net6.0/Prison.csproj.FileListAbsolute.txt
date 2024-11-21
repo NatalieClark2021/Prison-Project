@@ -1,0 +1,14 @@
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\bin\Debug\net6.0\Prison.exe
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\bin\Debug\net6.0\Prison.deps.json
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\bin\Debug\net6.0\Prison.runtimeconfig.json
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\bin\Debug\net6.0\Prison.dll
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\bin\Debug\net6.0\Prison.pdb
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.AssemblyInfoInputs.cache
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.AssemblyInfo.cs
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.csproj.CoreCompileInputs.cache
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.dll
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\refint\Prison.dll
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.pdb
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\Prison.genruntimeconfig.cache
+C:\Users\Natal\OneDrive\demo\Documents\Fall 2025\programmingLang\Prison\obj\Debug\net6.0\ref\Prison.dll
